@@ -1,3 +1,3 @@
-var ForagerBee = function() {
+var ForagerBee = function () {
 };
 
